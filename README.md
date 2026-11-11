@@ -14,14 +14,11 @@
   <img src="https://img.shields.io/badge/HDL-Verilog-blue" />
   <img src="https://img.shields.io/badge/HDL-SystemVerilog-brightgreen" />
   <img src="https://img.shields.io/badge/Tool-Xilinx%20Vivado-purple" />
-  <img src="https://img.shields.io/badge/Tool-ModelSim-9cf" />
-  <img src="https://img.shields.io/badge/EDA-Cadence%20Genus%20%7C%20Innovus-red" />
   <img src="https://img.shields.io/badge/EDA-Tanner-orange" />
   <img src="https://img.shields.io/badge/EDA-LTSpice-lightblue" />
   <img src="https://img.shields.io/badge/Tool-MATLAB-yellow" />
   <img src="https://img.shields.io/badge/Code-Python-blue" />
   <img src="https://img.shields.io/badge/Code-C-green" />
-  <img src="https://img.shields.io/badge/Script-Tcl-lightgrey" />
 </p>
 
 ---
@@ -31,7 +28,7 @@
 - 🔍 Like solving problems in **RTL design, physical design, and protocol verification**
 - ⚡ Have built and verified **AMBA AXI4/APB4 interfaces, a pipelined MIPS32 CPU, and a hand-sized CMOS standard cell library**
 - 🧩 Taken a design through the **full synthesis-to-routing flow** in Cadence Genus and Innovus on a 45nm process
-- 🌱 Currently working on **FPGA-oriented Retinex low-light image enhancement** as part of ongoing capstone research, alongside analog/mixed-signal circuit design
+- 🌱 Currently working on **FPGA-oriented system** as part of ongoing research work.
 
 ---
 
@@ -72,18 +69,10 @@
 ✅ Completed **VLSI Physical Design with Timing Analysis** (NPTEL)
 ✅ Completed **Verilog for an FPGA Engineer with Xilinx Vivado Design Suite** (Udemy)
 ✅ Hands-on with **Tcl-based EDA flow scripting** across synthesis and physical design
-🌱 Exploring **FPGA-based image processing** and **analog/mixed-signal circuit design**
+🌱 Exploring **FPGA-based image processing** and **Digital IC Design**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toshiv-Kumar&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toshiv-Kumar&layout=compact&theme=radical" height="160"/>
-</p>
-
----
 
 ## 🌐 Let's Connect
 
